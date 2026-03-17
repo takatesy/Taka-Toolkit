@@ -17,4 +17,4 @@ try:
     sock.close()
 
 except Exception as e:
-    print(f"Coult not grab banner: {e}")
+    print(f"Could not grab banner: {e}")
