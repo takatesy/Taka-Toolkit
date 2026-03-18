@@ -1,0 +1,7 @@
+Network Map Report
+Generated: 20260317_220238
+Network: 192.168.1.0/24
+============================================================
+
+IP: 192.168.1.91 | MAC: Unknown | Hostname: Stinger.attlocal.net | Vendor: Unknown
+IP: 192.168.1.254 | MAC: 48-41-7b-e2-54-52 | Hostname: dsldevice | Vendor: Nokia Solutions and Networks GmbH & Co. KG
